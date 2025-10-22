@@ -37,13 +37,15 @@ T20 cricket is a high-paced, dynamic format where decisions need to be made quic
 
 The analysis will rely on a rich, publicly available cricket dataset.
 
-**Primary Source: Cricsheet **
+Primary Source: Cricsheet 
 **Format:** Data is available in JSON and YAML format for all T20 internationals and major leagues like the IPL.
+
 **Content:** Ball-by-ball data for each match, including:
 ->Batsman, bowler, runs scored, extras, wickets (with dismissal type).
 ->Over-by-over breakdown.
 ->Toss decision (bat or field) and winner.
 ->Venue and date information.
+
 **Key Data Points for Analysis:**
 Match Metadata: Venue, Date, Teams, Toss, Result.
 Ball-by-Ball: Batsman, Bowler, Runs, Wickets, Over Number.
@@ -137,11 +139,15 @@ Bar charts showing average first innings scores, par scores, and toss decision w
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
 **Auction Strategy:** Prioritize players with strong phase-specific skills, especially powerplay hitters and death-over specialists, over those with just good overall averages.
+
 **Team Composition:** Build a squad with a balanced mix of left and right-handed batsmen to disrupt the opposition's bowling plans.
+
 **In-Game Tactics:**
 Use the match-up matrix to pre-plan bowling changes. For example, save your left-arm pacers for the opposition's key right-handed batsmen in the powerplay.
 Based on the venue, have a pre-decided toss strategy.
+
 **Batting Order Optimization:** Don't stick to a rigid batting order. Use a flexible approach where "finishers" are promoted if a high death-over run rate is required early.
+
 **Data-Driven Scouting:** Implement this analytical framework for scouting talent in lesser-known leagues, identifying players whose underlying metrics (like phase-wise performance) suggest high potential.
 
 ---
