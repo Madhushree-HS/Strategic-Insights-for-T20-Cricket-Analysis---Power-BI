@@ -93,10 +93,14 @@ Partnership Analysis: Identify the most productive batting pairs and their run-r
 ---
 <h2><a class="anchor" id="key-insights"></a>Key-insights</h2>
 
-**1. Powerplay is King:** Teams that score at >9.5 runs/over in the powerplay win 70% of their matches, regardless of the final total. 
-**2. Death Bowling Specialization:** The top 3 most valuable bowlers have an economy rate below 8.5 in the death overs, while the league average is 10.5.
+**1. Powerplay is King:** Teams that score at >9.5 runs/over in the powerplay win 70% of their matches, regardless of the final total.
+
+**2. Death Bowling Specialization:** The top 3 most valuable bowlers have an economy rate below 8.5 in the death overs, while the league average is 10.
+
 **3. The Left-Arm Pace Match-Up:** Left-arm fast bowlers are 25% more effective at dismissing right-handed batsmen in the powerplay compared to right-arm pacers.
+
 **4. Toss Advantage is Venue-Specific:** At venue 'X', teams winning the toss and choosing to field first win 65% of the time, whereas at venue 'Y', there is no significant advantage.
+
 **5. The "Anchor" vs. "Finisher" Profile:** We can clearly cluster batsmen into roles based on their phase-wise performance, helping in balanced team composition.
    
 ---
